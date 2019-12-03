@@ -12,7 +12,7 @@ module.exports = {
       dev : 'development',
       prod : 'production',
       env :  'development',
-      whiteListOrigins :['localhost:4001','http://www.kasb.com'],
+      whiteListOrigins :['localhost:4001'],
       dataSourcesPath:['raw-data/collections.json', 'raw-data/products.json']
 };
 
