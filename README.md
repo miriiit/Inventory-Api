@@ -1,5 +1,14 @@
 # Inventory-Api
 
+## Question Related To Cart only Check volume
+Problem may be when two different user request for same inventory 
+of limited quantity.
+
+At cart Validation we may also have to set timeout for a request to be checkout beside volume check.
+second record access table lock to process request to concurrency validation control ensure isolation.
+If user not checkout within cart active time then product will available for other sessions users.
+Or may be we use two time cart validation.
+
 ## NPM Commands
 - **npm i**
 - **npm run dev**
