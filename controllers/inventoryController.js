@@ -31,22 +31,6 @@ exports.GetAllProducts= async (req, res, next) =>{
 };
 
 exports.InsertProduct = async (req, res, next) =>{
-    // await dbQueries.queryKse100( (err, result) =>{
-    //     if(err) {
-    //       console.log("DB Info Error Fetching! "+err);
-    //       res.send(err).status(404);
-    //       return;
-    //      }
-
-    //     if (result) { // No results.
-    //         res.send({ title: 'KSE100',response:true ,size : result.length , data:  result}).status(200);
-    //     }
-    //     else { // No results.
-    //         var err = new Error('No KSE100 Feed Found!');
-    //         err.status = 404;
-    //         res.send(err).status(404);
-    //     }
-    // });
     res.send({ title: 'InsertProduct',response:true , data:  "Insert Product"}).status(200);
 };
 
