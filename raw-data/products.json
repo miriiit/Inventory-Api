@@ -1,0 +1,17 @@
+[
+	{
+		"id": "B32DED2B-0D77-4CD8-AD4A-04719A18F8F4",
+		"product_name": "Geometric Groove",
+		"product_collections":[{"AF69D064-DDB6-4424-B8FC-E693C010E1BF":{"name":"All Products","id":"AF69D064-DDB6-4424-B8FC-E693C010E1BF","url":"all-products","priority":1}},{"77016869-136D-4FD3-9A96-06A3A3BB11AB":{"name":"Ready To Wear - Sale 2019","id":"77016869-136D-4FD3-9A96-06A3A3BB11AB","url":"ready-to-wear-sale-2019","priority":3}},{"C5C58D82-554F-4ECF-B295-6B61C63A8D51":{"name":"All Items - Sale 2019","id":"C5C58D82-554F-4ECF-B295-6B61C63A8D51","priority":3}}]
+	},
+	{
+		"id": "B32DED2B-0D77-4CD8-AD4A-04719A18F8F5",
+		"product_name": "Limtn Shoe",
+		"product_collections":[{"AF69D064-DDB6-4424-B8FC-E693C010E1BF":{"name":"All Products","id":"AF69D064-DDB6-4424-B8FC-E693C010E1BF","url":"all-products","priority":1}},{"77016869-136D-4FD3-9A96-06A3A3BB11AB":{"name":"Ready To Wear - Sale 2019","id":"77016869-136D-4FD3-9A96-06A3A3BB11AB","url":"ready-to-wear-sale-2019","priority":3}},{"C5C58D82-554F-4ECF-B295-6B61C63A8D51":{"name":"All Items - Sale 2019","id":"C5C58D82-554F-4ECF-B295-6B61C63A8D51","priority":3}}]
+	},
+	{
+		"id": "B32DED2B-0D77-4CD8-AD4A-04719A18F8F6",
+		"product_name": "Somti Gi k Suie",
+		"product_collections":[{"AF69D064-DDB6-4424-B8FC-E693C010E1BF":{"name":"All Products","id":"AF69D064-DDB6-4424-B8FC-E693C010E1BF","url":"all-products","priority":1}},{"77016869-136D-4FD3-9A96-06A3A3BB11AB":{"name":"Ready To Wear - Sale 2019","id":"77016869-136D-4FD3-9A96-06A3A3BB11AB","url":"ready-to-wear-sale-2019","priority":3}},{"C5C58D82-554F-4ECF-B295-6B61C63A8D51":{"name":"All Items - Sale 2019","id":"C5C58D82-554F-4ECF-B295-6B61C63A8D51","priority":3}}]
+	}
+]
